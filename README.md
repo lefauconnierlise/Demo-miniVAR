@@ -5,8 +5,7 @@ La démonstration est volontairement simplifiée, et a pour but de rendre fluide
 
 Pour l'utiliser, vous pouvez cloner ce repo entier. 
 
-Le fichier "demo_miniVAR.ipynb" est le notebook du mini VAR, qui doit être lancé sur Google Colab avec un GPU. Il peut tourner sur une machine classique mais cela prendra trop de temps. 
-
+Le fichier "demo_miniVAR.ipynb" est le notebook du mini VAR. Le modèle prend beaucoup de temps à être entrainer e les cellules sont déjà exécutées donc vous n'êtes pas obligés de lancer les cellules. Si jamais vous souhaitez essayer, faites le sur Google Colab avec un GPU. Il peut tourner sur une machine classique mais cela prendra trop de temps. 
 
 ## Installation si vous souhaitez quand même le lancer en local
 
@@ -17,8 +16,7 @@ Le fichier "demo_miniVAR.ipynb" est le notebook du mini VAR, qui doit être lanc
 
 ## Démonstration par les auteurs du papier 
 
-Les auteurs du papier ont fourni une démonstration du VAR, bien plus complexe que mon mini-VAR. Cette démonstration est dans le dossier "VAR_papier". 
-Le modèle est déjà entraîné et les paramètres sont directement utilisés. 
+Les auteurs du papier ont fourni une démonstration du VAR, bien plus complexe que mon mini-VAR. Cette démonstration est dans le dossier "VAR_papier". Elle peut être explorée en local ou sur Google Colab. 
 
 Le fichier demo_VAR.ipynb peut être exécuter pour générer des images. Les images générées appartiennent à des classes qui peuvent être choisies dans la 2ème cellule du notebook, dans la variable "class_labels". Vous pouvez les changer pour tester. 
 
