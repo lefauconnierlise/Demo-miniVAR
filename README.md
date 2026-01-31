@@ -5,7 +5,7 @@ La démonstration est volontairement simplifiée, et a pour but de rendre fluide
 
 Pour l'utiliser, vous pouvez cloner ce repo entier. 
 
-Le fichier "demo_miniVAR.ipynb" est le notebook du mini VAR. Le modèle prend beaucoup de temps à être entrainer e les cellules sont déjà exécutées donc vous n'êtes pas obligés de lancer les cellules. Si jamais vous souhaitez essayer, faites le sur Google Colab avec un GPU. Il peut tourner sur une machine classique mais cela prendra trop de temps. 
+Le fichier "demo_miniVAR.ipynb" est le notebook du mini VAR. Le modèle prend beaucoup de temps à être entrainer et les cellules sont déjà exécutées donc vous n'êtes pas obligés de lancer les cellules. Si jamais vous souhaitez essayer, faites le sur Google Colab avec un GPU. Il peut tourner sur une machine classique mais cela prendra trop de temps. 
 
 ## Installation si vous souhaitez quand même le lancer en local
 
