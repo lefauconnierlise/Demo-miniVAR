@@ -1,0 +1,9 @@
+
+
+Pillow
+huggingface_hub
+numpy
+pytz
+transformers
+typed-argument-parser
+matplotlib
